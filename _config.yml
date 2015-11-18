@@ -1,0 +1,23 @@
+name: The Experiment 2
+favicon: null
+layout_spectrum: 0.7418924770317972
+typography_spectrum: 0.0988035430200398
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8942880677059293
+  lightness: 0.749446123605594
+  saturation: 0.6252532098442316
+  rhythmicContrast: 0.8890067196916789
+purpose: []
